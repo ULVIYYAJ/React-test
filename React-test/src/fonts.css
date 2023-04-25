@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "DMSans-Regular";
+    src: local("DMSans-Regular"), url("/src/fonts/DMSans-Regular.ttf") format("truetype");
+}
+@font-face {
+    font-family: "Inter";
+    src:local('Inter'), url('/src/fonts/Inter-Regular.otf') format('truetype');
+}
+@font-face {
+    font-family: "Inter-Black";
+    src: local("Inter-Black"), url("/src/fonts/Inter-Black.otf") format("truetype");
+}
